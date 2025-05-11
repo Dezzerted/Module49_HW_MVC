@@ -1,2 +1,13 @@
-/vendor
-/composer.lock
+# Dependencies
+/vendor/
+
+# Environment
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# System
+.DS_Store
+*.log
